@@ -23,7 +23,19 @@ Open [http://127.0.0.1:8000](http://127.0.0.1:8000).
 mkdocs build
 ```
 
-Output is written to `site/` and can be published to any static host (nginx, GitLab Pages, etc.).
+Output is written to `site/`.
+
+## GitHub Pages
+
+Published site: [https://ethernet-dip.github.io/fsid-user-guide/](https://ethernet-dip.github.io/fsid-user-guide/)
+
+Deploys automatically on every push to `main` via [`.github/workflows/deploy-docs.yml`](.github/workflows/deploy-docs.yml) (GitHub Actions → Pages).
+
+Manual one-off from a laptop (legacy `gh-pages` branch):
+
+```bash
+mkdocs gh-deploy --force
+```
 
 ## Screenshots
 

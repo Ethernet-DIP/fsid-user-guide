@@ -1,9 +1,8 @@
 site_name: FSID Staff Console Guide
 site_description: How-to guide for MoE admin and institution portal users of the FSID staff console
-site_url: null
-
-docs_dir: docs
+site_url: https://ethernet-dip.github.io/fsid-user-guide/
 site_dir: site
+docs_dir: docs
 
 theme:
   name: material
