@@ -47,7 +47,7 @@ Typical tabs / sections:
 ### Students
 
 1. Browse the institution’s roster (scoped to that institution).
-2. **Export CSV** with optional field and FSID filters.
+2. **Export CSV** with optional field and NSID filters.
 3. **Import CSV** — opens the admin import flow for this institution.
 4. **Add student** to create a single roster row (student number is unique per institution).
 
@@ -57,6 +57,6 @@ Typical tabs / sections:
 2. Copy the client secret when shown (it is displayed once).
 3. Toggle integration **active / inactive**.
 
-### Issued FSIDs
+### Issued NSIDs
 
-Review FSIDs already linked to this institution.
+Review NSIDs already linked to this institution.

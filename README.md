@@ -1,4 +1,4 @@
-# FSID Staff Console Guide
+# NSID Staff Console Guide
 
 Operator how-to documentation for the MoE admin console and institution portal.
 Built with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).

@@ -10,7 +10,7 @@ Users with `fsid:read`.
 
 ## How to open
 
-Sidebar → **FSID** → **Access sessions** (`/access-sessions`).
+Sidebar → **NSID** → **Access sessions** (`/access-sessions`).
 
 > Screenshot placeholder: `admin-access-sessions.png` — capture from the live console and save to `assets/screenshots/admin-access-sessions.png`.
 

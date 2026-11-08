@@ -6,8 +6,8 @@ Stable filenames used by the guide pages. Captured from the staff app at `http:/
 |---|---|---|
 | `login.png` | Sign-in | Captured |
 | `admin-dashboard.png` | MoE Dashboard | Captured |
-| `admin-fsids-list.png` | FSIDs list | Captured |
-| `admin-issue-fsid.png` | Issue FSID | Captured |
+| `admin-fsids-list.png` | NSIDs list | Captured |
+| `admin-issue-fsid.png` | Issue NSID | Captured |
 | `admin-fayda-sessions.png` | Fayda sessions | Placeholder |
 | `admin-access-sessions.png` | Access sessions | Placeholder |
 | `admin-audit.png` | Audit | Placeholder |

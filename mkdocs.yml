@@ -1,5 +1,5 @@
-site_name: FSID Staff Console Guide
-site_description: How-to guide for MoE admin and institution portal users of the FSID staff console
+site_name: NSID Staff Console Guide
+site_description: How-to guide for MoE admin and institution portal users of the NSID staff console
 site_url: https://ethernet-dip.github.io/fsid-user-guide/
 site_dir: site
 docs_dir: docs
@@ -42,8 +42,8 @@ nav:
   - MoE admin:
       - Overview: admin/index.md
       - Dashboard: admin/dashboard.md
-      - FSIDs: admin/fsids.md
-      - Issue FSID: admin/issue-fsid.md
+      - NSIDs: admin/fsids.md
+      - Issue NSID: admin/issue-fsid.md
       - Fayda sessions: admin/fayda-sessions.md
       - Access sessions: admin/access-sessions.md
       - Audit: admin/audit.md
@@ -57,7 +57,7 @@ nav:
       - Overview: institution/index.md
       - Portal home: institution/portal-home.md
       - Students: institution/students.md
-      - Student detail and Issue FSID: institution/student-detail-issue.md
+      - Student detail and Issue NSID: institution/student-detail-issue.md
       - Import students: institution/student-import.md
       - Settings: institution/settings.md
 

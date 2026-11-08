@@ -17,5 +17,5 @@ Sidebar → **Institutions** → **Institution portal** (`/institution-portal`).
 
 ## Actions
 
-1. Review stats and recent issued FSIDs for your institution.
+1. Review stats and recent issued NSIDs for your institution.
 2. Open **Students** (requires `institution:issue`) to manage the roster — see [Students](students.md).

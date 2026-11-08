@@ -1,8 +1,8 @@
-# Student detail and Issue FSID
+# Student detail and Issue NSID
 
 ## Purpose
 
-Edit a roster record and run institution-channel Fayda issuance or approve a soft identity match to link an existing FSID.
+Edit a roster record and run institution-channel Fayda issuance or approve a soft identity match to link an existing NSID.
 
 ## Who sees it
 
@@ -25,17 +25,17 @@ Institution users with access to Students (`institution:issue`).
 
 When verification has run, the page shows verified name, date of birth, gender, Fayda subject, picture, and verified-at time stored on the student.
 
-## Issue FSID
+## Issue NSID
 
-Shown when the student is eligible and does not already have an FSID.
+Shown when the student is eligible and does not already have an NSID.
 
-1. Click **Issue FSID**.
+1. Click **Issue NSID**.
 2. Confirm consent and enter **FIN** when asked.
 3. Complete Fayda verification.
 4. Review the verified identity against the roster.
-5. If it matches, **Generate FSID** (create or retrieve) and link to your institution.
+5. If it matches, **Generate NSID** (create or retrieve) and link to your institution.
 6. If demographics differ, review the **similarity score** and use **Approve & link student** when you confirm it is the same person. There is no reject action on this soft-match path — leave without approving if you are unsure.
 
-## Already has FSID
+## Already has NSID
 
-If the student already has an FSID, the Issue control is hidden. Use the displayed FSID value and Fayda card for reference.
+If the student already has an NSID, the Issue control is hidden. Use the displayed NSID value and Fayda card for reference.

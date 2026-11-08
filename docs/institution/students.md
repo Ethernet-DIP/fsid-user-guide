@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Maintain your institution’s student roster: search, add, export, import, and open a student for editing or FSID issuance.
+Maintain your institution’s student roster: search, add, export, import, and open a student for editing or NSID issuance.
 
 ## Who sees it
 
@@ -19,11 +19,11 @@ Sidebar → **Institutions** → **Students** (`/institution-portal/students`).
 
 1. **Search** by name or student number; **reload** when needed.
 2. **Add student** — enter name parts, student number, date of birth, gender, optional phone/email, eligibility. Student number must be unique within your institution.
-3. **Export CSV** — choose fields, with/without FSID, and optional issued-date range, then download.
+3. **Export CSV** — choose fields, with/without NSID, and optional issued-date range, then download.
 4. **Import CSV** — opens the import wizard; see [Import students](student-import.md).
-5. Open a student row to view/edit and issue — see [Student detail and Issue FSID](student-detail-issue.md).
+5. Open a student row to view/edit and issue — see [Student detail and Issue NSID](student-detail-issue.md).
 
 ## Notes
 
-- **Issue FSID** is available on the student detail page when the student is eligible and does not already have an FSID linked.
+- **Issue NSID** is available on the student detail page when the student is eligible and does not already have an NSID linked.
 - Export and list data never leave your institution’s scope.

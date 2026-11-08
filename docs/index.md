@@ -1,6 +1,6 @@
-# FSID Staff Console Guide
+# NSID Staff Console Guide
 
-This guide explains how to use the **FSID staff console** — the shared web app for Ministry of Education (MoE) administrators and recognized education institutions.
+This guide explains how to use the **NSID staff console** — the shared web app for Ministry of Education (MoE) administrators and recognized education institutions.
 
 The console runs under `/admin/` (for example `http://localhost:3000/admin/` in local development).
 
@@ -8,8 +8,8 @@ The console runs under `/admin/` (for example `http://localhost:3000/admin/` in 
 
 | Audience | Typical tasks |
 |---|---|
-| **MoE admin** | Manage FSIDs, institutions, users, audit, and national reference data |
-| **Institution user** | Maintain your school’s student roster, import CSV, and issue or link FSIDs |
+| **MoE admin** | Manage NSIDs, institutions, users, audit, and national reference data |
+| **Institution user** | Maintain your school’s student roster, import CSV, and issue or link NSIDs |
 
 ## How to use this guide
 

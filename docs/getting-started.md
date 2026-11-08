@@ -24,7 +24,7 @@ Menus are **permission-based**. You and a colleague may see different items afte
 
 | If you have… | You typically see… |
 |---|---|
-| MoE admin permissions (`institution:manage`, `fsid:*`, `user:*`) | Dashboard, **FSID** group, **Manage institutions**, **User Management**, Reference, Settings. Institution portal links are **hidden**. |
+| MoE admin permissions (`institution:manage`, `fsid:*`, `user:*`) | Dashboard, **NSID** group, **Manage institutions**, **User Management**, Reference, Settings. Institution portal links are **hidden**. |
 | Institution permissions (`institution:read` / `institution:issue`) without manage | Dashboard, **Institution portal**, **Students** (if you can issue), Settings |
 
 ### Permission cheatsheet (sidebar)
@@ -32,8 +32,8 @@ Menus are **permission-based**. You and a colleague may see different items afte
 | Menu | Permission |
 |---|---|
 | Dashboard | Always (authenticated) |
-| FSIDs / Fayda sessions / Access sessions / Audit | `fsid:read` |
-| Issue FSID | `fsid:issue` |
+| NSIDs / Fayda sessions / Access sessions / Audit | `fsid:read` |
+| Issue NSID | `fsid:issue` |
 | Issuance history | `institution:manage` |
 | Manage institutions | `institution:manage` |
 | Institution portal | `institution:read` (institution users only) |

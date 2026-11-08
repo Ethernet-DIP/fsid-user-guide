@@ -2,7 +2,7 @@
 
 ## Purpose
 
-View institution-linked FSID issuances across institutions (who issued, when, which method).
+View institution-linked NSID issuances across institutions (who issued, when, which method).
 
 ## Who sees it
 
@@ -10,7 +10,7 @@ Users with `institution:manage` (MoE admins).
 
 ## How to open
 
-Sidebar → **FSID** → **Issuance history** (`/issuance-history`).
+Sidebar → **NSID** → **Issuance history** (`/issuance-history`).
 
 > Screenshot placeholder: `admin-issuance-history.png` — capture from the live console and save to `assets/screenshots/admin-issuance-history.png`.
 
