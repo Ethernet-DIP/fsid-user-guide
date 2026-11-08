@@ -1,0 +1,69 @@
+site_name: FSID Staff Console Guide
+site_description: How-to guide for MoE admin and institution portal users of the FSID staff console
+site_url: null
+
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Getting started: getting-started.md
+  - MoE admin:
+      - Overview: admin/index.md
+      - Dashboard: admin/dashboard.md
+      - FSIDs: admin/fsids.md
+      - Issue FSID: admin/issue-fsid.md
+      - Fayda sessions: admin/fayda-sessions.md
+      - Access sessions: admin/access-sessions.md
+      - Audit: admin/audit.md
+      - Issuance history: admin/issuance-history.md
+      - Manage institutions: admin/institutions.md
+      - Users: admin/users.md
+      - Roles: admin/roles.md
+      - Reference: admin/reference.md
+      - Settings: admin/settings.md
+  - Institution portal:
+      - Overview: institution/index.md
+      - Portal home: institution/portal-home.md
+      - Students: institution/students.md
+      - Student detail and Issue FSID: institution/student-detail-issue.md
+      - Import students: institution/student-import.md
+      - Settings: institution/settings.md
+
+exclude_docs: |
+  assets/screenshots/README.md
+
+plugins:
+  - search
